@@ -39,8 +39,6 @@ Spotify-Clone/
 
 2. Navigate to the project directory:
   ```bash
-  Copy
-  Edit
   cd Spotify-Clone
 ```
 
